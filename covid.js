@@ -1,7 +1,7 @@
 const request = require('request')
    
 // Request URL
-var url = 'https://jsonplaceholder.typicode.com/todos/1';
+var url = 'https://lnwcodeapi.ml/latest';
   
 request(url, (error, response, body)=>{
      
